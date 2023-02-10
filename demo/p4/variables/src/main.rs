@@ -21,5 +21,6 @@ fn main() {
     println!("The value of x is: {x}");
     let mut spaces = "   ";
     // spaces = spaces.len();
-    println!("The value of spaces is: {spaces}");
+    let x = 7 / 2;
+    println!("The value of spaces is: {x}");
 }
